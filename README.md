@@ -16,7 +16,7 @@ A full stack developer. I simply enjoy building applications ✌️
 
 [homepage]: https://adamuhh.dev
 
-
+<!--
 <br/>
 <h2>📚 Tech Stack 📚</h2>
 <p>
@@ -50,6 +50,6 @@ A full stack developer. I simply enjoy building applications ✌️
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamUhh\&layout=compact&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=AdamUhh&style=for-the-badge)
-
+-->
 
 
