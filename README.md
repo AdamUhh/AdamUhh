@@ -1,17 +1,17 @@
 
-
+<!--
 ![header](https://i.imgur.com/15MJ6na.png)
 <br/>
 
 <h1 align="center">About Me</h1>
 
 <img align="left" width="200" height="200" alt="Dani Akash" src="https://i.imgur.com/Mk1aHAq.png"/>
+-->
+## Hi, i'm [Adam][homepage]
 
-## I'm [Adam][homepage]
+I'm a developer, I think? I enjoy building and customizing stuff.
 
-A full stack developer. I simply enjoy building applications ✌️
-
-- 🧷 My Portfolio Website: **https://adamuhh.dev**
+- 🧷 Portfolio (Lazy to update it): **https://adamuhh.dev**
 - 📫 How to reach me? **adamuhh.dev@gmail.com**
 
 [homepage]: https://adamuhh.dev
